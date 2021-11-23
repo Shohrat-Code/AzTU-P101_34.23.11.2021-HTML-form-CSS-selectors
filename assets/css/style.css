@@ -1,0 +1,108 @@
+/* button {
+    padding: 10px 60px;
+    font-size: 20px;
+    border: none;
+    margin-top: 30px;
+    border-radius: 3px;
+    background-color: #0d005e;
+    color: white;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#left {
+    width: 300px;
+}
+
+#left img {
+    max-width: 100%;
+}
+
+#right {
+    width: 300px;
+}
+
+#right img {
+    max-width: 100%;
+}
+
+#wrapper .firstCategory {
+    background-color: rgb(0, 0, 63);
+    color: white;
+}
+
+#wrapper .secondCategory {
+    background-color: rgb(53, 0, 7);
+    color: rgb(16, 214, 9);
+}
+
+#wrapper .sameProperty {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 8px solid green;
+} */
+
+
+/* 
+#wrapper p {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 8px solid green;
+} */
+
+
+/* .test span {
+    font-weight: bold;
+    color: red;
+} */
+
+
+/* #MainList>li {
+    color: red;
+} */
+
+
+/* #myDiv>p {
+    color: red;
+} */
+
+
+/* #secondDiv~p {
+    color: blue;
+} */
+
+
+/* input:checked {
+    width: 50px;
+    height: 50px;
+} */
+
+
+/* input:disabled {
+    width: 50px;
+    background-color: red;
+} */
+
+
+/* input:focus {
+    padding: 20px;
+} */
+
+button {
+    padding: 10px 60px;
+    font-size: 20px;
+    border: none;
+    margin-top: 30px;
+    border-radius: 3px;
+    background-color: #0d005e;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: red;
+}
